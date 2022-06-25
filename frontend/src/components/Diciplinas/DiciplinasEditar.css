@@ -1,0 +1,28 @@
+.sectionTable {
+    background-color: beige;
+
+    max-width: 99.5vw;
+    max-height: 81vh;
+
+    overflow: scroll;
+
+    height: 81vh;
+
+}
+
+.tabela {
+    max-width: 98vw;
+    max-height: 68vh;
+
+    overflow: scroll;
+}
+
+#btnSalvar {
+    margin-left: 4vw;
+    width: 10vw;
+}
+
+#btnVoltar {
+    margin-left: 4vw;
+    width: 10vw;
+}

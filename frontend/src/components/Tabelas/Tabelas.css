@@ -1,0 +1,21 @@
+.tabela table {
+  width: 100%;
+}
+
+.tabela th {
+  background-color: #383dc2;
+  color: #fff
+}
+
+.tabela .par {
+  background-color: rgb(128, 181, 241); 
+}
+
+.tabela .impar {
+  background-color: rgb(197, 232, 243); 
+}
+
+
+.tabela {
+  background-color: aqua;
+}

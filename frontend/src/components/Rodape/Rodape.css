@@ -1,0 +1,13 @@
+.rodape {
+  height: 4vh;
+  border: 0.1vh solid white;
+
+  margin: 0.2% 0.2% 0.2% 0.2%;
+  background-color: chartreuse;
+}
+
+#mensagem {
+  text-align: center;
+  font-size: 14px;
+  padding-top: 0.6vh;
+}

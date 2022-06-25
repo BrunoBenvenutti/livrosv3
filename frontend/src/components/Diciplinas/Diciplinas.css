@@ -1,0 +1,110 @@
+.tabela {
+    height: 40vh;
+}
+
+tr:nth-child(even) {
+    background: #CCC
+}
+tr:nth-child(odd) {
+    background: #FFF
+}
+#legenda{
+    text-align: center;
+    background-color: azure;
+}
+
+tbody > tr {
+    height: 0.2vh;
+    border: 0.1vh;
+}
+
+tbody > td {
+    padding: 0.2%;
+}
+
+tfoot > tr {
+    padding: 0.2%;
+    width: 40vw;
+}
+
+#titulo {
+    border: 0.1vh solid black;
+    background-color: darkgrey;
+    padding-top: 0.0vh;
+}
+
+#t_codigo {
+    width: 1vw;
+}
+
+#t_ativo {
+    width: 1vw;
+}
+
+#t_nome {
+    width:25vw;
+}
+
+#t_apelido {
+    width: 15vw;
+}
+
+#t_sexo {
+    width: 1vw;
+}
+
+#t_telefone {
+    width: 15vw;
+}
+
+#t_email {
+    width: 20vw;
+}
+
+
+#p_codigo {
+    width: 0vw;
+    text-align: right;
+    padding-right: 0.0vw;
+}
+
+#p_ativo {
+    width: 1vw;
+    padding-left: 0.5vw;
+    text-align: center;
+}
+
+#p_nome {
+    width: 20vw;
+    padding-left: 0.5vw;
+    text-align: left;
+}
+
+#p_apelido {
+    width: 10vw;
+    padding-left: 0.5vw;
+    text-align: left;
+
+}
+
+#p_sexo {
+    width: 1vw;
+    padding-left: 0.5vw;
+    text-align: left;
+
+}
+
+#p_telefone {
+    width: 3vw;
+    padding-left: 0.5vw;
+    text-align: left;
+
+}
+
+#p_email {
+    width: 10vw;
+    padding-left: 0.5vw;
+    text-align: left;
+
+}
+
